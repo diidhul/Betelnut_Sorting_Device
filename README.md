@@ -25,8 +25,8 @@ The image of good and bad betel nut below 👇👇
 1. Install the arduino IDE u can see the tutorial in <a href="https://www.instructables.com/How-to-Install-Arduino-IDE-on-Windows-10/">here.</a>
 2. Download the needed files on the repository <a href="https:www..com">here.</a>
 3. Wiring the component, the wiring image <a href="https:www..com">here.</a>
-4. Open the main folder & then upload the <a href="https:www..com">conveyor_loadcell.</a> into arduino mini
-5. Upload the <a href="https:www..com">upload to esp32.</a> into Esp 32. This code is for thermal camera for read the temperature of betel nut and command for moving servo
+4. Open the main folder & then upload the <a href="https:www..com">conveyor_loadcell.</a> into ESP32
+5. Upload the <a href="https:www..com">upload to arduino.</a> into Esp 32. This code is for thermal camera for read the temperature of betel nut and command for moving servo
 6. Then assembly the part u can see my prototype image below this.
 
 7. The final video is below here 
