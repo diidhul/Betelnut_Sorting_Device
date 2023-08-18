@@ -30,14 +30,18 @@ The image of good and bad betel nut below 👇👇
     all of libraary above is necessary for define and intialize all the component
 3. Download the needed files on the repository <a href="https:www..com">here.</a>
 4. Wiring the component, u can see the wiring image below 👇
+   
    <kbd><img src="(https://github.com/diidhul/IoT_Betelnut_Sorting_Machine/blob/main/Images/wiring.png)" alt="Image"></kbd>
 5. Open the main folder & then upload the <a href="Arduino/main/conveyor_loadcell_esp32.ino">conveyor_loadcell.</a> into ESP32
 6. Upload the <a href="Arduino/main/upload to arduino.ino">upload to arduino.</a> into Arduino. This code is for thermal camera for read the temperature of betel nut and command for moving servo
 7. Then assembly the part u can see my prototype image below this.
 
+
 <kbd><img src="(https://github.com/diidhul/IoT_Betelnut_Sorting_Machine/blob/main/Images/prototype%20image.png)" alt="Image"></kbd>
 
 8. The final video is below here 👇
+
+   
 [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://drive.google.com/file/d/11n3sChgPE0puqIlMQ7-3FpZ_oxv0y5F3/view?usp=sharing)
    
    
