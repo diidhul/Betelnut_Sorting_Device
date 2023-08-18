@@ -7,6 +7,7 @@ The idea of this project is; Betel nut is one of the export commodities in Aceh,
 
 The image of good and bad betel nut below 👇👇
 
+![Image](https://github.com/diidhul/IoT_Betelnut_Sorting_Machine/blob/main/Images/half%20cut%20betel%20nut%20reveal.png)
 
 
 ## Tools & Materials
@@ -23,12 +24,18 @@ The image of good and bad betel nut below 👇👇
     
 ### How To
 1. Install the arduino IDE u can see the tutorial in <a href="https://www.instructables.com/How-to-Install-Arduino-IDE-on-Windows-10/">here.</a>
-2. Download the needed files on the repository <a href="https:www..com">here.</a>
-3. Wiring the component, the wiring image <a href="https:www..com">here.</a>
-4. Open the main folder & then upload the <a href="https:www..com">conveyor_loadcell.</a> into ESP32
-5. Upload the <a href="https:www..com">upload to arduino.</a> into Arduino. This code is for thermal camera for read the temperature of betel nut and command for moving servo
-6. Then assembly the part u can see my prototype image below this.
+2. Dont forget to download the library of
+       a. HX711_ADC.h
+       b. Servo.h
+       c. BlynkSimpleEsp32.h
+       d. Adafruit_AMG88xx_Library
+    all of libraary above is necessary for define and intialize all the component
+3. Download the needed files on the repository <a href="https:www..com">here.</a>
+4. Wiring the component, the wiring image <a href="https:www..com">here.</a>
+5. Open the main folder & then upload the <a href="https:www..com">conveyor_loadcell.</a> into ESP32
+6. Upload the <a href="https:www..com">upload to arduino.</a> into Arduino. This code is for thermal camera for read the temperature of betel nut and command for moving servo
+7. Then assembly the part u can see my prototype image below this.
 
-7. The final video is below here 
+8. The final video is below here 
    
    
