@@ -1,4 +1,4 @@
-# Betelnut_Sorting_Device
+# IoT_Betelnut_Sorting_Machine_
 
 ## An IoT device for sorting betel nut based on temperature
 This project aims to sort areca nut using temperature variables to sort good quality and poor quality betel nut
