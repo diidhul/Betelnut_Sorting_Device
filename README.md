@@ -18,7 +18,7 @@ The image of good and bad betel nut below 👇👇
 6. Kaki Sensor Berat
 7. HX711 Module
 8. Motor Driver L298N
-9. Arduino mini
+9. Arduino Uno
 10. <a href="https://blynk.io/">Blynk IoT Appilcation.</a>
     
 ### How To
@@ -26,7 +26,7 @@ The image of good and bad betel nut below 👇👇
 2. Download the needed files on the repository <a href="https:www..com">here.</a>
 3. Wiring the component, the wiring image <a href="https:www..com">here.</a>
 4. Open the main folder & then upload the <a href="https:www..com">conveyor_loadcell.</a> into ESP32
-5. Upload the <a href="https:www..com">upload to arduino.</a> into Esp 32. This code is for thermal camera for read the temperature of betel nut and command for moving servo
+5. Upload the <a href="https:www..com">upload to arduino.</a> into Arduino. This code is for thermal camera for read the temperature of betel nut and command for moving servo
 6. Then assembly the part u can see my prototype image below this.
 
 7. The final video is below here 
